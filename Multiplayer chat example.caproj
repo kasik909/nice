@@ -18,6 +18,7 @@
         <plugin author="Scirra" id="Multiplayer" version="1">Multiplayer</plugin>
         <plugin author="Scirra" id="Text" version="1">Text</plugin>
         <plugin author="Scirra" id="TextBox" version="1">Text box</plugin>
+        <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
     </used-plugins>
     <used-behaviors />
     <used-effects />
@@ -83,6 +84,10 @@
         </object-type>
         <object-type name="Browser" sid="8731513663264036">
             <plugin id="Browser" />
+        </object-type>
+        <object-type name="kasik" sid="105173575452420">
+            <plugin id="TiledBg" />
+            <texture />
         </object-type>
     </object-folder>
     <families />
